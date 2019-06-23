@@ -1,2 +1,2 @@
 # pizza-order
-Calculate total oredr price
+Calculate total order price
